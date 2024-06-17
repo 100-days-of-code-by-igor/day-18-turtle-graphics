@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94dd2939-d572-4369-a8af-7709d8359526" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/day-18-turtle-graphics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="94dd2939-d572-4369-a8af-7709d8359526" name="Changes" comment="finalized exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +69,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718463929644</updated>
     </task>
+    <task id="LOCAL-00001" summary="finalized exercises">
+      <option name="closed" value="true" />
+      <created>1718645428418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718645428418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finalized exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
